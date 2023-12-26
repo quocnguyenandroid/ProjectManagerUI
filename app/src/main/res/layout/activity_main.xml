@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".activity.MainActivity">
 
     <ScrollView
         android:id="@+id/scrollView2"
@@ -217,7 +217,7 @@
                     android:visibility="invisible">
 
                     <ImageView
-                        android:id="@+id/btn1"
+                        android:id="@+id/btn3"
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_gravity="center"
@@ -245,7 +245,7 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:id="@+id/btn3"
+                        android:id="@+id/btn4"
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_gravity="center"
@@ -273,7 +273,7 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:id="@+id/btn4"
+                        android:id="@+id/btn5"
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_gravity="center"
